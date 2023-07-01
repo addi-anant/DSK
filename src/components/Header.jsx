@@ -30,7 +30,7 @@ function Header() {
             style={{ maxHeight: "100px" }}
             navbarScroll>
             <Nav.Link href="#action1">
-              <Link to="/about">About</Link>
+              <Link to="/volunteer">Volunteer</Link>
             </Nav.Link>
             <Nav.Link href="#action2">
               <Link to="/contact">Contact</Link>
